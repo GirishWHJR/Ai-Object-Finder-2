@@ -1,0 +1,22 @@
+.btn-info{
+    width: 100%;
+    top:0px;
+    margin-top:0px;
+    font-size:20px;
+}
+
+.abcd{
+    color:black;
+    font-size:15px;
+}
+
+body{
+    text-align:center;
+}
+
+#input_tab{
+    width:500px;  
+    border-radius: 5px;  
+    border:0.5px;
+    height:24.578px;   
+}
